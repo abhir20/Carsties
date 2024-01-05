@@ -23,3 +23,17 @@ C:\Users\abhin\CODING\Carsties\src\AuctionService\obj\Debug\net7.0\refint\Auctio
 C:\Users\abhin\CODING\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 C:\Users\abhin\CODING\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 C:\Users\abhin\CODING\Carsties\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.AssemblyReference.cache
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Humanizer.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\abhin\CODING\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.CopyComplete
