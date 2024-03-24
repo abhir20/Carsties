@@ -6,7 +6,7 @@ using MongoDB.Entities;
 
 namespace SearchService.Models
 {
-    public class Item : Entity
+    public class Items : Entity
     {
         public Guid Id { get; set; }
         public int ReservePrice { get; set; }

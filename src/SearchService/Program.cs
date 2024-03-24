@@ -13,9 +13,9 @@ builder.Services.AddEndpointsApiExplorer();
 var app = builder.Build();
 
 await DB.InitAsync("SearchDB", MongoClientSettings
-            .FromConnectionString(builder.Configuration.GetConnectionString("MongoDBConnection")));
+            .FromConnectionString(builder.Configuration.GetConnectionString("MongoDbConnection")));
 
-await DB.Index<Item>()
+await DB.Index<Items>()
     .Key(x => x.Make, KeyType.Text)
     .Key(x => x.Model, KeyType.Text)
     .Key(x => x.Color, KeyType.Text)

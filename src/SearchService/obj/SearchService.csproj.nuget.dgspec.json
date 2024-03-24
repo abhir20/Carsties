@@ -55,7 +55,7 @@
             },
             "MongoDB.Entities": {
               "target": "Package",
-              "version": "[23.0.1, )"
+              "version": "[23.1.0, )"
             }
           },
           "imports": [
